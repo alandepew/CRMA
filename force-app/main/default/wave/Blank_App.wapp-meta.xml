@@ -9,6 +9,6 @@
         <sharedTo>AllInternalUsers</sharedTo>
         <sharedToType>Organization</sharedToType>
     </shares>
-    <templateOrigin>sfdc_internal__AdminAnalytics</templateOrigin>
+    <templateOrigin></templateOrigin>
     <templateVersion>56.0</templateVersion>
 </WaveApplication>
