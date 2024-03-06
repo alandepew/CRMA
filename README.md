@@ -37,7 +37,7 @@ Harder Option: [Set up a custom process to push Event Logs into CRM Analytics](h
 Use the button below to authenticate with the Heroku app.
 Make sure to enter 'main' in the Branch/Tag/Commit field.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=alandepew&amp;repo=eventmonitoringplus&amp;branch=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=alandepew&amp;repo=blankapp&amp;branch=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/alandepew/githubsfdeploy/master/deploy.png">
 </a>
