@@ -39,7 +39,7 @@ Make sure to enter 'main' in the Branch/Tag/Commit field.
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=seamusocionnaigh&amp;repo=eventmonitoringplus&amp;branch=main">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+       src="https://raw.githubusercontent.com/alandepew/githubsfdeploy/master/deploy.png">
 </a>
 
 #### Manual Deployment
